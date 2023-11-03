@@ -1,2 +1,6 @@
-package com.picpay.dtos;public record TransactionDTO() {
+package com.picpay.dtos;
+
+import java.math.BigDecimal;
+
+public record TransactionDTO(BigDecimal value, Long senderId, Long receiverId) {
 }
