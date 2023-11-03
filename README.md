@@ -1,15 +1,17 @@
-- Criar o pacote domain/user
-- Criar a classe User
-- Criar a enum UserType
+# api-springboot-picpay
 
-- Criar o pacote transaction
-- Criar a classe Transaction
+Link para o desafio proposto: https://github.com/PicPay/picpay-desafio-backend
 
-- Criar o pacote repositories
-- Criar a interface UserRepository
-- Criar a interface TransactionRepository
+# Passos seguidos para a construção da API
+- Criação do pacote domain/user
+- Criação da classe User
+- Criação da enum UserType
 
-- Criar o pacote services
-- Criar a classe UserService
-- Criar a classe TransactionService
-- Criar o record TransactionDTO# api-springboot-picpay
+- Criação do pacote transaction e da classe Transaction e da interface TransactionRepository
+  
+- Criação o pacote repositories com a interface UserRepository
+
+- Criação do pacote services com a classe UserService
+- Criação da classe TransactionService
+  
+- Criação do record TransactionDTO
