@@ -1,7 +1,7 @@
 # api-springboot-picpay
 
-** Descrição: ** Criar o backend simulando uma aplicação para envio de pagamentos
-Link para o desafio proposto: https://github.com/PicPay/picpay-desafio-backend
+**Descrição:** Criar o backend simulando uma aplicação para envio de pagamentos<br>
+**Link para o desafio proposto:** https://github.com/PicPay/picpay-desafio-backend
 
 # Passos seguidos para a construção da API
 1. Criação do pacote domain com a classe User
